@@ -1,9 +1,12 @@
 function LandingPage(){
   return(
     <>
-    test
-    </>
-  )
+    
+    <h1 className="text-red">hello</h1>
+
+
+
+    </>)
 }
 
 

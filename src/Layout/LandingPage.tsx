@@ -1,7 +1,10 @@
-function LandingPage(){
+import NavBar from "./NavBar";
 
+function LandingPage(){
+  
   return(
     <>
+    <NavBar />
 
     <h1 className="text-9xl">Bark</h1>
 

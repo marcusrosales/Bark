@@ -8,7 +8,7 @@ function LandingPage(){
 
     <h1 className="text-9xl">Bark</h1>
 
-    <h2 className="" >See Photos, Details, And find </h2>
+    <h2 className="" >See Photos Of Your Next Best Friend!</h2>
 
     </>)
 }

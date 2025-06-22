@@ -2,7 +2,13 @@
 
 
 
-
 h1 {
     font-family: 'Cabin', sans-serif;
+    color: #C1121F;
 }
+
+
+body {
+    background-color: #fffdf9;
+}
+

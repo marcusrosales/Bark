@@ -1,25 +1,16 @@
 @import 'tailwindcss';
 
-
-
 h1 {
-    color: #C1121F;
-}
-
+    color: #C1121F;}
 
 body {
-    background-color: #ffffff;
-}
+    background-color: #ffffff;}
 
-
+    
 
 .H{
-    font-family: 'Cabin', sans-serif;
-
-}
+    font-family: 'Cabin', sans-serif;}
 
 .CTA{
     font-family: 'Cabin', sans-serif;
-    color: #3e7a9a;
-
-}
+    color: #3e7a9a;}

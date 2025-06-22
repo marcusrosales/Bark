@@ -6,9 +6,9 @@ function LandingPage(){
     <>
     <NavBar />
 
-    <h1 className="text-9xl font-semibold">Bark</h1>
+    <h1 className="text-9xl font-semibold H">Bark</h1>
 
-    <h2 className="" >See Photos Of Your Next Best Friend!</h2>
+    <h2 className="text-5xl font-semibold CTA" >Find your next best friend — see their photos and stories! </h2>
 
     </>)
 }

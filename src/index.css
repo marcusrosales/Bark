@@ -3,12 +3,23 @@
 
 
 h1 {
-    font-family: 'Cabin', sans-serif;
     color: #C1121F;
 }
 
 
 body {
-    background-color: #fffdf9;
+    background-color: #ffffff;
 }
 
+
+
+.H{
+    font-family: 'Cabin', sans-serif;
+
+}
+
+.CTA{
+    font-family: 'Cabin', sans-serif;
+    color: #3e7a9a;
+
+}

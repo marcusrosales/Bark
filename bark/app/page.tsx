@@ -7,7 +7,6 @@ export default async function page(){
   
   return(
     <>
-
     
     <input placeholder="Enter Pokemon:" 
     className="text-7xl border-2 rounded-2xl"

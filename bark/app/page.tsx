@@ -1,10 +1,19 @@
 'use client';
 
+import { useEffect } from "react";
+import { useState } from "react";
 
-export default async function page(){
+export default function page(){
+    useEffect(()=>{
+      async function fetchDat(){
+        const res = await fetch('http://localhost:3000/api/dogtest')
+        const text = await res.text()
+        console.log(data)
+      }
+    },[1])
   return(
     <>
-    <h1>hello</h1>
+    <h1>{text}</h1>
     </>
 )
 }
